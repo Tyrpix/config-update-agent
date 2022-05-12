@@ -21,7 +21,8 @@ a payload from GitHub containing information about the event. The desired inform
  [Ngrok](https://ngrok.com/) is required for local testing.
 
 Simply paste the https into the Webhooks payload URL:
-<img src="../../../../var/folders/41/fbjjnyc53nz_2frnvyqjh50c0000gn/T/TemporaryItems/NSIRD_screencaptureui_lXpDdA/Screenshot 2022-04-26 at 08.54.56.png"/>
+ ![Screenshot 2022-05-12 at 08 27 01](https://user-images.githubusercontent.com/45664271/168015457-6cc67924-6dfb-4e42-8e82-66232705ee8e.png)
+
 
 
 ### Usage
